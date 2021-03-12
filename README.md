@@ -1,6 +1,10 @@
 # [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)](https://shunsukesaito.github.io/PIFuHD/)
 
 [![report](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/pdf/2004.00452.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing)
+# MySelf Changed in the Demo colab page ([link](https://colab.research.google.com/github/So-AI-love/pifuhd/blob/master/CPU_Base_PIFuHD_Demo.ipynb)) Based of [this](https://github.com/facebookresearch/pifuhd/issues/103?notification_referrer_id=MDE4Ok5vdGlmaWNhdGlvblRocmVhZDE0MjAwNzQyODY6NjY3OTE1MQ%3D%3D#event-4170968598) Answer:
+
+![image](https://user-images.githubusercontent.com/6679151/110926330-7d178500-8339-11eb-8364-6798a8baf13c.png)
+
 
 News:
 * \[2020/06/15\] Demo with Google Colab (incl. visualization) is available! Please check out [#pifuhd on Twitter](https://twitter.com/search?q=%23pifuhd&src=recent_search_click&f=live) for many results tested by users!
